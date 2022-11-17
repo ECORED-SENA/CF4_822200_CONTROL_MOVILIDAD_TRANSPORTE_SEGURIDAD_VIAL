@@ -100,7 +100,7 @@
             .col-lg            
               .row.justify-content-end.align-items-center
                 .col-lg.mb-4.mb-lg-0
-                  h4.mb-2 FORMATO SST - FORMATO INSPECCION DE VEHICULO 2.0
+                  h4.mb-2 FORMATO SST - FORMATO INSPECCIÓN DE VEHÍCULO 2.0
                   p.mb-0 Para apoyar su aprendizaje, el Ministerio de Vivienda tiene un formulario para la inspección vehicular que le servirá de ejemplo, el cual le invitamos a descargar y revisar.
                 .col-auto
                   .row.align-items-center.mb-3                

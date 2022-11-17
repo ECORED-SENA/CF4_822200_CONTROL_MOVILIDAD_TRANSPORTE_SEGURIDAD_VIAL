@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.txt--sistema 5
-      h1 Planes de contingencia   
+      h1 Técnicas para inspección de medios de transporte 
 
     p(data-aos="fade-right") #[span.bold.hlgt--yellow Las unidades de transporte se inspeccionan por seguridad de todos los actores viales, para preservar la vida, los bienes y los recursos, lo cual permite detectar un problema a tiempo y puede prevenir muchísimos inconvenientes.] Por lo anterior, se deben tener en cuenta los siguientes tips:
 
@@ -67,7 +67,7 @@
 
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
-            h5 Dispositivos aseguramiento de carga.
+            h5 Dispositivos aseguramiento de carga
             p La revisión de los dispositivos para el aseguramiento de carga, en especial cuando se trata de cargas largas o pesadas, es de vital importancia, ya que de ellos depende que esta permanezca en su lugar todo el tiempo, protegiendo la vida y los bienes ajenos.
           .col-lg-6
             figure
@@ -86,7 +86,7 @@
             .col-lg            
               .row.align-items-center.mb-3
                 .col-xl-6.mb-4.mb-xl-0
-                  h4.mb-0 Como parte de su aprendizaje autónomo le invitamos a descargar y revisar los siguientes documentos:
+                  h4.mb-0 Como parte de su aprendizaje autónomo le invitamos a revisar los siguientes videos:
 
                 .col-xl-6
                   .row.align-items-center.mb-3
@@ -96,7 +96,7 @@
                           i.fas.fa-circle.bullet--orange
                           | La mecánica preventiva
                     .col-auto
-                      a.boton.color-botones.texto-blanco(href="https://www.youtube.com/watch?v=0LOslU5t2Fs" target="_blank")
+                      a.boton.color-botones.texto-blanco(href="https://www.youtube.com/watch?v=KndkCCX-VEE" target="_blank")
                         span Ver video
                         i.fas.fa-link
 
@@ -304,7 +304,7 @@
             | Chasis. 
           li
             i.fa-li.fas.fa-circle.bullet--orange
-            | Daniel Ricardo. 
+            | carrocería. 
           li
             i.fa-li.fas.fa-circle.bullet--orange
             | Limpiaparabrisas.
@@ -341,7 +341,7 @@
 
       .bg--paleBlue2.br--01.shadow.p-3(x="46%" y="54%" numero="+")
         .h5.mb-2 Alumbrado y señalización
-        p Es muy importante su adecuada revisión, ya que los equipos deben lograr permitir ver y ser vistos en sus desplazamientos, importante en la seguridad activa.
+        p Es muy importante su adecuada revisión, ya que los equipos deben  permitir ver y ser vistos en sus desplazamientos, importante en la seguridad activa.
 
 
       .bg--paleBlue2.br--01.shadow.p-3(x="56%" y="46%" numero="+")

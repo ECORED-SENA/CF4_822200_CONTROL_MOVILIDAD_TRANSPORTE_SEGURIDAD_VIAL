@@ -41,7 +41,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
       h5 Tabla 1.
-      span Rango de dimensiones carga extradimensionada.
+      span Rango de dimensiones de carga extradimensionada.
 
     .bg--black.p-4(data-aos="zoom-in")
       h4.text-center.txt--yellow.mb-0 CARGAS EXTRADIMENSIONADAS
@@ -53,8 +53,8 @@
             td(width="10%;") DIMENSIONES
             td REQUIERE PERMISO INVIAS
             td AVISOS
-            td AVISO POLICIA CARRETERAS
-            td(width="12%;") VEHICULO ACOMPA&Ntilde;ANTE
+            td AVISO POLICÍA CARRETERAS
+            td(width="12%;") VEHÍCULO ACOMPA&Ntilde;ANTE
             td P&Oacute;LIZA
             td VELOCIDAD EN &Aacute;REA RURAL KPH
             td VELOCIDAD EN &Aacute;REA URBANA KPH

@@ -192,7 +192,7 @@
                           i.fas.fa-circle.bullet--orange
                           | Decreto 1609
                     .col-auto
-                      a.boton.color-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-botones.texto-blanco(:href="obtenerLink('/downloads/Decreto_1609_de_2002.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -203,7 +203,7 @@
                           i.fas.fa-circle.bullet--orange
                           | Decreto 321 de 1999                  
                     .col-auto
-                      a.boton.color-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      a.boton.color-botones.texto-blanco(:href="obtenerLink('/downloads/Decreto_321_99.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
                
