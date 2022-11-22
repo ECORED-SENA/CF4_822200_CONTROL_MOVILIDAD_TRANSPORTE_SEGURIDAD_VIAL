@@ -51,14 +51,14 @@
             p Eliminar etapas innecesarias y sobrerrecorridos que no agregan valor; esto permite reducción de costos en la cadena logística y economías de escala.
           .col-lg-6
             figure
-              img(src='@/assets/curso/temas/t4/t4_04.png', alt='')
+              img(src='@/assets/curso/temas/t4/t4_05.png', alt='')
 
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0            
             p Una vez la carga esté sobre las unidades de transporte, se debe evitar manipularla de manera innecesaria, cambiarle los empaques o desembalarla, esto con el fin de conservar la carga en las condiciones en la que fue cargada, manteniendo así los productos en las mejores condiciones.
           .col-lg-6
             figure
-              img(src='@/assets/curso/temas/t4/t4_05.png', alt='')
+              img(src='@/assets/curso/temas/t4/t4_04.png', alt='')
 
     p(data-aos="fade-right").mb-5 Lo anterior permite una #[span.bold.hlgt--yellow reducción de costos] que es el resultado de la adecuada #[span.bold.hlgt--yellow gestión logística] y de un conocimiento de las operaciones, basada en #[span.bold.hlgt--yellow análisis, gestión y control,] que se definen a continuación:
 

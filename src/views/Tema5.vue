@@ -16,13 +16,13 @@
           span Factores claves para inspección de vehículos
 
         .row.justify-content-center(data-aos="zoom-in")
-          .col-lg-5
+          .col-lg-5.col-10.mb-4.mb-lg-0
             .bg--Pale.br--01.shadow.hg--100
               figure
                 img(src="@/assets/curso/temas/t5/t5_01.png", alt="alt")
               .p-4
                 p.text-center.mb-0 Usar todos sus sentidos,  como visión, olfato, tacto, oído, para identificar anomalías.
-          .col-lg-5
+          .col-lg-5.col-10
             .bg--Pale.br--01.shadow.hg--100
               figure
                 img(src="@/assets/curso/temas/t5/t5_02.png", alt="alt")
@@ -31,7 +31,7 @@
 
     p(data-aos="fade-right").mb-5 En adición, tenga en cuenta revisar periódicamente los siguientes elementos:
 
-    .bg_slider.px-5.pt-5.pb-4.br--01(data-aos="zoom-in")
+    .bg_slider.px-5.pt-5.pb-4.br--01.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
@@ -75,7 +75,7 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10
-        .bg--yellow.p-4.br--01.my-5   
+        .bg--yellow.p-4.br--01  
           .row.justify-content-center.align-items-center
             .col-auto.mb-4.mb-lg-0
               .row.align-items-center
@@ -122,20 +122,20 @@
                         span Ver video
                         i.fas.fa-link
 
-    .row.justify-content-center.mb-5
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+    .row.justify-content-center.mb-4
+      .col-lg-8(data-aos="fade-right")
         p Con estas observaciones, se pueden detectar algunos problemas, como baja presión del aire, desgaste de las llantas u otro tipo de problemas.
 
         p Las técnicas de inspección a los equipos de transporte deben estar muy relacionadas con la integridad operativa y con la normatividad que esté vigente en el momento, es por esto que el punto de partida es el marco regulatorio, cuyas bases tienen sus orígenes en la Ley 769 de 2002.
 
         p Esta adopta el Código Nacional de Tránsito Terrestre, en el cual se reglamenta la revisión para todos los vehículos automotores y su alcance técnico, al definir los sistemas del vehículo al que se va a realizar la inspección, la cual deben hacer cumplir los Centros de Diagnóstico Automotriz (CDA), entidades que certifican el cumplimiento de la normatividad de los vehículos.
 
-      .col-lg-4.col-8(data-aos="zoom-in")
+      .col-lg-4.d-none.d-lg-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t5/t5_08.png", alt="alt")
 
     .row.justify-content-center.mb-5
-      .col-lg-4.mb-4.mb-g-0(data-aos="zoom-in")
+      .col-lg-4.col-10.mb-4.mb-g-0(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t5/t5_09.png", alt="alt")
       .col-lg-8(data-aos="fade-left")
