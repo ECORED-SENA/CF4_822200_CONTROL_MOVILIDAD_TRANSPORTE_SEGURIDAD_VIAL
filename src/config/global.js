@@ -275,7 +275,7 @@ export default {
     },
     {
       referencia:
-        'Icontec Internacional. (2012). Revisión técnico – mecánica y de emisiones contaminantes en vehículos automotores [NTC 5375].',
+        'Icontec Internacional. (2012). Revisión técnico - mecánica y de emisiones contaminantes en vehículos automotores [NTC 5375].',
       link:
         'https://bogota.gov.co/sites/default/files/tys/2017/11/ntc-5375.pdf',
     },
