@@ -275,11 +275,6 @@ export default {
     },
     {
       referencia:
-        'Icontec. (2006). Centros de diagnóstico automotor [NTC 5385].',
-      link: 'http://web1.cali.gov.co/descargar.php?idFile=6345',
-    },
-    {
-      referencia:
         'Icontec Internacional. (2012). Revisión técnico – mecánica y de emisiones contaminantes en vehículos automotores [NTC 5375].',
       link:
         'https://bogota.gov.co/sites/default/files/tys/2017/11/ntc-5375.pdf',
