@@ -304,7 +304,7 @@
             | Chasis. 
           li
             i.fa-li.fas.fa-circle.bullet--orange
-            | carrocería. 
+            | Carrocería. 
           li
             i.fa-li.fas.fa-circle.bullet--orange
             | Limpiaparabrisas.
