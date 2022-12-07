@@ -32,7 +32,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 5.
+          h5 Figura 4.
           span Listas de chequeo
 
         .row.justify-content-center.align-items-center

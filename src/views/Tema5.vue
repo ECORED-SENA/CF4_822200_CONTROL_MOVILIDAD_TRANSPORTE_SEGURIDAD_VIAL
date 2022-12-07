@@ -12,7 +12,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-          h5 Figura 4.
+          h5 Figura 3.
           span Factores claves para inspección de vehículos
 
         .row.justify-content-center(data-aos="zoom-in")

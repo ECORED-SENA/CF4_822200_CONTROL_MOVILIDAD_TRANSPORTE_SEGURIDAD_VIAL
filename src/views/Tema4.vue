@@ -27,7 +27,7 @@
     p(data-aos="fade-right").mb-5 Una adecuada planeación en la logística de transporte tiene las siguientes ventajas:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
-      h5 Figura 3.
+      h5 Figura 2.
       span Logística en transporte de carga
 
     figure.mb-5(data-aos="zoom-in")

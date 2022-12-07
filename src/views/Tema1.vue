@@ -53,7 +53,7 @@
         figure.mb-4
           img(src="@/assets/curso/temas/t1/t1_07.svg", alt="alt").img145.m-auto
         h3.text-center Sistematizar
-        p.text-center Es importante la planificación de ruta de transporte de manera digital, con el apoyo de programas o software, para tomar decisiones de cambio en tiempo real.
+        p.text-center Es importante la planificación de ruta de transporte de manera digital, con el apoyo de programas o #[em software], para tomar decisiones de cambio en tiempo real.
 
     .bg--warning.mb-5(data-aos="zoom-in")      
       .row.justify-content-center.align-items-center

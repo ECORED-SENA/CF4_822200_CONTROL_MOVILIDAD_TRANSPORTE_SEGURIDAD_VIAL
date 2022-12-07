@@ -21,7 +21,7 @@
               figure
                 img(src="@/assets/curso/temas/recursos/quote_01.svg", alt="alt").img25
             .col
-              p Hay que tener en cuenta que, en la normatividad colombiana, un #[strong “incidente”] es un suceso repentino no deseado, que ocurre por las mismas causas que se presentan los accidentes, solo que, por cuestiones del azar, no desencadena lesiones en las personas, daños a la propiedad, al proceso o al ambiente”. 
+              p Hay que tener en cuenta que, en la normatividad colombiana, un #[strong “incidente”] es un suceso repentino no deseado, que ocurre por las mismas causas que se presentan los accidentes, solo que, por cuestiones del azar, no desencadena lesiones en las personas, daños a la propiedad, al proceso o al ambiente. 
           .row.justify-content-end
             .col-auto
               p #[strong - (Sura, s. f.) ] 
@@ -223,13 +223,13 @@
       .row.justify-content-center.align-items-center
         .col-lg-7.mb-4.mb-lg-0
           .bg--Pale.p-3.br--01.shadow
-            p #[span.bold.txt--orange 1.Técnicas activas:] se basan en #[strong planeación y prevención antes de los accidentes], identificando peligros y evaluando los riesgos, apoyados en inspecciones en las que se analizan los recursos y procesos para evaluar todos los riesgos.
+            p #[span.bold.txt--orange 1. Técnicas activas:] se basan en #[strong planeación y prevención antes de los accidentes], identificando peligros y evaluando los riesgos, apoyados en inspecciones en las que se analizan los recursos y procesos para evaluar todos los riesgos.
             figure.py-3
               img(src="@/assets/curso/temas/recursos/line_01.svg", alt="alt")
-            p #[span.bold.txt--orange 2.Técnicas reactivas:] se producen #[strong una vez ocurre el accidente;] determinan causas para #[strong implementar controles;] en esto es muy importante #[strong la investigación de accidentes y la estadística.]
+            p #[span.bold.txt--orange 2. Técnicas reactivas:] se producen #[strong una vez ocurre el accidente;] determinan causas para #[strong implementar controles;] en esto es muy importante #[strong la investigación de accidentes y la estadística.]
             figure.py-3
               img(src="@/assets/curso/temas/recursos/line_01.svg", alt="alt")
-            p #[span.bold.txt--orange 3.Técnicas complementarias:] #[strong basadas en normatividad y señalización], eliminando aspectos que afecten la seguridad y la salud.
+            p #[span.bold.txt--orange 3. Técnicas complementarias:] #[strong basadas en normatividad y señalización], eliminando aspectos que afecten la seguridad y la salud.
         .col-lg-5
           figure
             img(src="@/assets/curso/temas/t3/t3_18.svg", alt="alt")
